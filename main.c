@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main() {
-	printf("Hello World\n");
+	printf("LEONARDO GATAO\n");
 	return 0;
 }
